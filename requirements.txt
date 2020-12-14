@@ -1,0 +1,7 @@
+scikit-learn
+strsimpy
+unidecode
+pycountry
+tqdm
+scipy
+xgboost
